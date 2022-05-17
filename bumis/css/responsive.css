@@ -203,8 +203,10 @@
 	.our_blog_area .blog_inner{
 		margin-bottom: -30px;
 	}
-	.about_left_text{
-		margin-bottom: 50px;
+	.about_center_text{
+		display: flex;
+		justify-content: center;
+
 	}
 	.portfolio_details_inner .portfolio_right_text {
 		padding-left: 0px;
@@ -354,7 +356,7 @@
 	.projects_area{
 		padding-top: 70px;
 	}
-	.about_area .about_inner .about_left_text h3 br {
+	.about_area .about_inner .about_center_text h3 br {
 		display: none;
 	}
 }

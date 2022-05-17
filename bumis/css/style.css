@@ -127,6 +127,11 @@ button:focus {
   .main_title.white p {
     color: #fff;
     opacity: .6; }
+  .main_title h5{
+    font-family: "Roboto", sans-serif;
+    max-width: 740px;
+    margin: auto;
+  }
 
 /* End Main Title Area css
 ============================================================================================ */
@@ -412,7 +417,7 @@ button:focus {
     background: #000;
     z-index: 1; }
     .banner_area .banner_inner .overlay {
-      background: url(../img/banner/banner.jpg) no-repeat scroll center center;
+      background: url(../img/home-banner.jpg) no-repeat scroll center center;
       position: absolute;
       left: 0;
       right: 0;
