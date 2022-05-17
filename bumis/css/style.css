@@ -295,11 +295,14 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
-  background-size: cover; }
+  background: url(../img/home-banner.jpg) no-repeat scroll center center;
+  background-size: cover;
+  height: 1000px;
+  }
   .home_banner_area .banner_inner {
     width: 100%; }
     .home_banner_area .banner_inner .col-lg-8 {
+      padding-top: 400px;
       vertical-align: middle;
       align-self: center; }
     .home_banner_area .banner_inner .banner_content {
