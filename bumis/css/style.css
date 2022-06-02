@@ -2822,11 +2822,13 @@ h6 {
   position: relative;
   overflow: hidden; }
   .projects_item img {
-    width: 100%; }
+    width: 100%;
+    min-width: 100%;
+    min-height: 100%}
   .projects_item .hover {
     position: absolute;
     left: 0px;
-    bottom: -100%;
+    bottom: -1000px;
     background: #faba00;
     width: 100%;
     padding: 36px;
@@ -2849,6 +2851,12 @@ h6 {
 .wd_44 {
   flex: 0 0 45.31%;
   max-width: 45.31%; }
+.wd_50 {
+  display: flex;
+  max-width: 45%;
+  justify-content: center;
+  align-content: stretch;
+}
 
 /* End Projects Area css
 ============================================================================================ */
