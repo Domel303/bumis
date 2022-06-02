@@ -375,7 +375,7 @@ button:focus {
     min-height: 780px;
     z-index: 1; }
     .blog_banner .banner_inner .overlay {
-      background: url(../img/banner/banner-2.jpg) no-repeat scroll center center;
+      background: url(../img/about-1.jpg) no-repeat scroll center center;
       opacity: .5;
       height: 125%;
       position: absolute;
@@ -1159,7 +1159,7 @@ button:focus {
   position: relative; }
   .reservation_form_area .res_form_inner:before {
     content: "";
-    background: url(../img/contact-shap-1.png);
+    background: url(../img/img-3.jpg);
     position: absolute;
     left: -125px;
     height: 421px;
@@ -1168,7 +1168,7 @@ button:focus {
     transform: translateY(-50%); }
   .reservation_form_area .res_form_inner:after {
     content: "";
-    background: url(../img/contact-shap-2.png);
+    background: url(../img/img-3.jpg);
     position: absolute;
     right: -125px;
     height: 421px;
@@ -1252,7 +1252,7 @@ button:focus {
   .contact_info .info_item h6 {
     font-size: 16px;
     line-height: 24px;
-    color: "Roboto", sans-serif;
+    font: "Roboto", sans-serif;
     font-weight: bold;
     margin-bottom: 0px;
     color: #222222; }
@@ -2770,7 +2770,7 @@ h6 {
 /* Looking Area css
 ============================================================================================ */
 .impress_area {
-  background: url(../img/notify-bg.jpg) no-repeat scroll center center;
+  background: url(../img/projects/rezani.jpg) no-repeat scroll center center;
   background-size: cover; }
   .impress_area .impress_inner {
     color: #fff; }
