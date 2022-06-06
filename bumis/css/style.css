@@ -2820,11 +2820,26 @@ h6 {
 ============================================================================================ */
 .projects_item {
   position: relative;
-  overflow: hidden; }
+  overflow: hidden;
+  width: 100%;
+}
   .projects_item img {
     width: 100%;
     min-width: 100%;
     min-height: 100%}
+.projects_item .name {
+  position: absolute;
+  left: 0px;
+
+  top: 0px;
+  background: rgba(255, 234, 196, 0.66);
+  width: 100%;
+  padding: 12px;
+  margin: 3px}
+.projects_item .name h4 {
+  color: #222222;
+  text-transform: uppercase;
+  font-size: 18px; }
   .projects_item .hover {
     position: absolute;
     left: 0px;
