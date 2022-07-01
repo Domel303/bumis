@@ -240,7 +240,7 @@ button:focus {
     top: -70px;
     left: 0;
     right: 0;
-    background: #fff;
+    background: rgba(255,255,255,0.9) ;
     transform: translateY(70px);
     transition: transform 500ms ease, background 500ms ease;
     -webkit-transition: transform 500ms ease, background 500ms ease;
@@ -1255,7 +1255,7 @@ button:focus {
     font: "Roboto", sans-serif;
     font-weight: bold;
     margin-bottom: 0px;
-    color: #222222; }
+    color: #985e6d; }
     .contact_info .info_item h6 a {
       color: #222222; }
   .contact_info .info_item p {
@@ -2938,7 +2938,7 @@ h6 {
 /* Footer Area css
 ============================================================================================ */
 .footer_area {
-  background: #222222; }
+  background: #192231; }
 
 .f_title {
   margin-bottom: 35px; }
