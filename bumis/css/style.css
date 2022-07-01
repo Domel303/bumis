@@ -2848,10 +2848,10 @@ h6 {
   .projects_item .hover {
     position: absolute;
     left: 0px;
-    bottom: -1000px;
-    background: #faba00;
+    bottom: 0px; /* -1000px if hover effect wanted */
+    background: rgba(250, 186, 0, 0.4);
     width: 100%;
-    padding: 36px;
+    padding: 12px;
     transition: all 400ms ease; }
     .projects_item .hover h4 {
       color: #222222;
