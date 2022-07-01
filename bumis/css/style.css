@@ -1468,6 +1468,11 @@ button:focus {
   padding-left: 5px; }
 
 .e-large {
+  position: fixed;
+  bottom: 0px;
+  z-index: 10;
+  margin-left: 18%;
+  width: 66%;
   line-height: 50px;
   padding-top: 0px;
   padding-bottom: 0px; }
@@ -1606,7 +1611,7 @@ h6 {
   outline: none;
   line-height: 40px;
   padding: 0 30px;
-  font-size: .8em;
+  font-size: 2em;
   text-align: center;
   text-decoration: none;
   font-weight: 500;
