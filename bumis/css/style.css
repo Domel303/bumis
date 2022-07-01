@@ -3040,3 +3040,11 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+
+.background-style-odd {
+background-color: #494E6B;
+}
+
+.background-style-even {
+  background-color: #192231 ;
+}
