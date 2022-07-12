@@ -1257,7 +1257,7 @@ button:focus {
     margin-bottom: 0px;
     color: #985e6d; }
     .contact_info .info_item h6 a {
-      color: #222222; }
+      color: #985e6d; }
   .contact_info .info_item p {
     font-size: 14px;
     line-height: 24px;
@@ -1469,11 +1469,11 @@ button:focus {
 
 .e-large {
   position: fixed;
-  bottom: 0px;
+  bottom: 20px;
   z-index: 10;
-  margin-left: 18%;
-  width: 66%;
-  line-height: 50px;
+  margin-left: 26%;
+  width: 48%;
+  line-height: 30px;
   padding-top: 0px;
   padding-bottom: 0px; }
 
@@ -1611,7 +1611,7 @@ h6 {
   outline: none;
   line-height: 40px;
   padding: 0 30px;
-  font-size: 2em;
+  font-size: 1em;
   text-align: center;
   text-decoration: none;
   font-weight: 500;
@@ -2849,7 +2849,7 @@ h6 {
     position: absolute;
     left: 0px;
     bottom: 0px; /* -1000px if hover effect wanted */
-    background: rgba(250, 186, 0, 0.4);
+    background: rgba(255, 255, 255, 0.4);
     width: 100%;
     padding: 12px;
     transition: all 400ms ease; }
