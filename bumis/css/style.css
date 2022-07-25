@@ -145,7 +145,7 @@ button:focus {
   z-index: 99;
   transition: background 0.4s, all 0.3s linear; }
   .header_area .navbar {
-    background: transparent;
+    background-color: #fff;
     padding: 0px;
     border: 0px;
     border-radius: 0px; }
@@ -156,7 +156,7 @@ button:focus {
       .header_area .navbar .nav .nav-item .nav-link {
         font: 500 13px/68px "Roboto", sans-serif;
         text-transform: uppercase;
-        color: #fff;
+        color: #000000;
         padding: 0px;
         display: inline-block; }
         .header_area .navbar .nav .nav-item .nav-link:after {
